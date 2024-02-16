@@ -1,6 +1,7 @@
 # PORTOFOLIO
-Here you can find all the informations that you need about me!
-***Website still under construction***
+Here you can find some info about me!
+
+***Website still under construction, much more to come soon!***
 
 # ROBLOX
 I am a very advanced and experienced (8+) programmer and scripter in LUA, applying it into the **ROBLOX Engine**.
