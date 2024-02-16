@@ -15,4 +15,5 @@ Down below you can find a link to my talent hub creator page :
 # CONTACT
 
 ***DISCORD*** > fabian8746
+
 ***ROBLOX***  > @suntFabian
